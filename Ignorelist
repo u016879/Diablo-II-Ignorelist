@@ -1,3 +1,20 @@
+There are many ways to create and edit an ignorelist file but I feel these 
+instructions are as simple as I can make them. Type /ignorepersist in game. 
+If the game says disabled, type it again. Then type /filtermsg spam this will 
+ignore all messages with the word spam in them, not super useful. Then close 
+Diablo II. Right click on your Diablo II shortcut and hit properties from the 
+context menu. In the popup window press "find target." This will open your 
+Diablo II folder. Find the file named ignorelist and right click it. Choose 
+open and select notepad as the program you wish to edit it with. Highlight all
+the text in the file and Paste the text included in the link beginning with the
+first line starting with !, into the file (do NOT paste the instructions at
+the top, NOTE: this will remove your previous filters and add mine). This will
+ignore all the spam I know of on EU. Lastly go to the end of the file and
+press enter leaving 1 blank line at the end of the file. Save the file (DO NOT
+USE SAVE AS...) and close notepad as well as your Diablo II folder. Open Diablo
+II and enjoy as spam-free gameplay experience.
+
+
 !#D2LOVE.jimdo.com
 !Diablo2gg
 !d2papa
